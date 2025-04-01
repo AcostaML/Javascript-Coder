@@ -1,3 +1,6 @@
+Este proyecto funciona de momento solo por consola, es decir, se debe inspeccionar elemento en el html para visualizar la consola.
+
+
 Estructura del Proyecto
 
 El código está diseñado para simular una experiencia básica de compra en línea. Se estructura de la siguiente manera:
