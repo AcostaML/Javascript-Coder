@@ -1,14 +1,14 @@
-/* Fondo general con degradado azul */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background:  #2c3e50; /* azul claro a oscuro */
+    background:  #2c3e50; 
     color: #fff;
     text-align: center;
   }
   
-  /* Botones superiores */
+  /* Boton superior */
   .botones {
     margin-bottom: 20px;
   }
@@ -27,7 +27,7 @@ body {
     background-color: #16a085;
   }
   
-  /* Sección de productos en grilla */
+  /* Sección de productos */
   #productos {
     display: flex;
     flex-wrap: wrap;
@@ -57,6 +57,6 @@ body {
     color: #ecf0f1;
   }
   .producto h3 {
-    color: #2c3e50; /* Gris oscuro */
+    color: #2c3e50; 
   }
   
