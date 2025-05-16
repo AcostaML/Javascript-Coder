@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nombre": "Ron Santa Teresa", "precio": 11990, "imagen": "./Images/ron-santa-teresa-anejo.jpg" },
+    { "id": 2, "nombre": "Ron Santa Teresa Linaje", "precio": 15990, "imagen": "./Images/RON-SANTA-TERESA-LINAJE-070.jpg" },
+    { "id": 3, "nombre": "Ron Cacique", "precio": 9990, "imagen": "./Images/cacique-ron-venezolano.png" },
+    { "id": 4, "nombre": "Ron Cacique 500", "precio": 12990, "imagen": "./Images/ron-cacique-500.jpg" },
+    { "id": 5, "nombre": "Ron Cacique Leyenda", "precio": 18990, "imagen": "./Images/ron-cacique-leyenda.jpg" },
+    { "id": 6, "nombre": "Ron Santa Teresa 1796", "precio": 29990, "imagen": "./Images/ron-solera-santa-teresa-1796-750cc.jpg" },
+    { "id": 7, "nombre": "Ron Moneda de Oro", "precio": 7490, "imagen": "./Images/ron-moneda-de-oro.jpg" },
+    { "id": 8, "nombre": "Ron Carta Roja", "precio": 6490, "imagen": "./Images/ron-carta-roja.jpeg" },
+    { "id": 9, "nombre": "Ron Carúpano Extra", "precio": 16990, "imagen": "./Images/ron-carupano-extra.jpg" },
+    { "id": 10, "nombre": "Ron Bodega 1800", "precio": 14990, "imagen": "./Images/ron-bodega-1800.png" }
+]
